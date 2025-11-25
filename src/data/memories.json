@@ -1,18 +1,34 @@
 [
   {
-    "slug": "sunset-beach",
-    "title": "Sunset at The Beach",
+    "slug": "Hari-Guru",
+    "title": "Teachers Day",
     "date": "2025-11-25",
     "location": "Jakarta, Indonesia",
     "image": "1.jpg",
     "description": "A quiet evening I still remember. The wind was warm and everything felt peaceful."
   },
   {
-    "slug": "old-friends",
-    "title": "Old Friends Reunion",
+    "slug": "Hari-Guru",
+    "title": "Teachers Day",
     "date": "2025-11-25",
     "location": "Jakarta, Indonesia",
     "image": "2.jpg",
+    "description": "We laughed like nothing changed. Maybe some things never do."
+  },
+  {
+    "slug": "Hari-Guru",
+    "title": "Teachers Day",
+    "date": "2025-11-25",
+    "location": "Jakarta, Indonesia",
+    "image": "3.jpg",
+    "description": "We laughed like nothing changed. Maybe some things never do."
+  },
+  {
+    "slug": "Hari-Guru",
+    "title": "Teachers Day",
+    "date": "2025-11-25",
+    "location": "Jakarta, Indonesia",
+    "image": "4.jpg",
     "description": "We laughed like nothing changed. Maybe some things never do."
   }
 ]
